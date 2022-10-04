@@ -1,0 +1,72 @@
+*{
+   
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+ body{
+    background-image: url("background1.png");
+    background-repeat: no-repeat;
+    background-size: 4000px ;
+    
+ }
+
+.Heading {
+    text-align: center;
+    padding: 20px 10px 20px 10px;
+    background-color: black;
+    border: 1px rgb(244, 244, 234);
+    color: beige;
+    border-style: inset;
+ }
+
+ .About{
+    text-align: center;
+    padding:40px 40px 40px 40px;
+    background-color: rgb(23, 214, 160);
+ }
+
+ .Img2{
+    padding: 10px 10px 10px 10px;
+    background-color: rgb(214, 199, 39);
+    color: aquamarine;
+ }
+
+ .video{
+    border: solid blue;
+    background-color: rgb(214, 39, 39);
+ }
+
+ .Heading1{
+    text-align: center;
+    list-style: inside;
+ } 
+
+ .heading{
+    text-align: center;
+    list-style:  inside;
+ }
+
+ .Events{
+    text-align: center;
+    padding: 40px 40px 40px 40px;
+    background-color: blueviolet;
+    color: rgb(175, 233, 17);
+    list-style: inside;
+    border: 15 px solid yellowgreen;
+    margin: 40px;
+
+ }
+ .contact{
+    padding: 40px 40px 40px 40px;
+    background-color: rgba(107, 114, 96, 0.964);
+    color: rgb(223, 238, 184);
+    list-style: inside;
+    border: 15 px solid yellowgreen;
+    margin: 40px;
+
+ }
+ .privacy{
+    text-align: center;
+    background-color: black;
+    color: beige;
+ }
